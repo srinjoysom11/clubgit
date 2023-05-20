@@ -1,1 +1,1 @@
- 'Hi im srinjoy som from ece dept.My roll no is 220102097.I am from west bengal .'
+ 'Hi im srinjoy som from ece dept.My roll no is 220102097.I am from west bengal .I want to contribute to the open source module because i expect this experience will help me to contribute in others project in github work in bigger project with other programmer .and also i can get help from people regarding my problems in certain project'
